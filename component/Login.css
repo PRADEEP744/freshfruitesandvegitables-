@@ -1,0 +1,44 @@
+.header{
+    position: relative;
+    font-size: 130%;
+   
+}
+.body{
+    position: absolute;
+    margin: 15% 30%;
+    background: linear-gradient(to right, rgb(39, 221, 245), rgb(55, 255, 55) );
+    width: 40%;
+}
+.h1{
+    text-align: center;
+    
+}
+.forgot{
+  margin-left: 10%;  
+  color: blue;
+}
+.forgot:hover{
+    text-decoration: underline;
+}
+.button2{
+    margin-left: 20%;
+    font-size: 80%;
+    width: 50%;
+    padding: 1%;
+    background-color: rgb(198, 224, 222);
+}
+.lable1{
+    margin-left: 20%;
+    
+}
+
+.signup{
+    margin-left:5%;
+    color: blue;
+}
+.signup:hover{
+    text-decoration: underline;
+}
+#input1{
+   margin-left:6%;
+}

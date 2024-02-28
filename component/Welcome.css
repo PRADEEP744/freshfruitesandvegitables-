@@ -1,0 +1,97 @@
+
+.FirstDiv{
+    text-align: center;
+ background-color:rgb(151, 222, 241);
+ padding:2.5%;
+ border: 2px double black;
+ 
+}
+.heading{
+    font-size: 300%;
+    color:rgb(34, 14, 209);
+    text-transform: uppercase;
+}
+.heading1{
+    font-size: 250%;
+    color:white;
+    text-transform: uppercase;
+    text-shadow:2px 2px 4px rgb(31, 5, 145);
+}
+.button1{
+    display: inline;
+    margin-right:1%;
+    
+}
+.mainDiv{
+    width: 100%;
+}
+.mainDiv2{
+    width: 100%;
+}
+.secondDiv{
+    width: 29%;
+    padding: 2%;
+    float: left;
+}
+.logo{
+    width: 10%;
+    height: 10%;
+    border-radius: 50%;
+    float:left;
+}
+.twoDiv{
+    width: 41%;
+    padding: 3%;
+    float:left;
+    margin: 1%;
+    border: 3px double rgba(10, 6, 129, 0.759);
+    background-color: rgb(218, 231, 233);
+}
+.logo1{
+    width:330px;
+    height:230px;
+    border-radius: 10%;
+    float:top right;
+}
+.button{
+    padding: 1%;
+    width: 20%;
+    margin-left: 20%;
+    border-radius: 50%;
+    background-color: rgb(108, 245, 195);
+    color: rgb(190, 11, 11);
+    font-size: 140%;
+    text-shadow:2px 2px 4px rgb(241, 75, 119);
+    font-family: 'Times New Roman';
+}
+.button:hover{
+    color:whitesmoke;
+}
+.thiredDiv{
+    width: 100%;
+}
+.threeDiv{
+    width: 26%;
+    padding:2%;
+    float: left;
+    margin: 1%;
+    border: 3px double rgba(10, 6, 129, 0.759);
+    background-color: rgb(218, 231, 233);
+}
+.fourthDiv{
+    text-align: center;
+    font-size: 150%;
+    padding: 3%;
+    
+}
+.hover:hover{
+    text-decoration: underline ;
+    color: rgb(216, 13, 135);
+}
+
+.logo2{
+    width:20px;
+    height:20px;
+    display: inline;
+    border-radius: 50%;
+}
